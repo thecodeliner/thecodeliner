@@ -7,7 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=thecodeliner&color=red)
 
-Skills: C / C++ / Java / PYTHON / NEXT JS/ REACT / JS / TAILWIND CSS/ BOOTSTRAP  / CSS / HTML 
+Skills: PHP / Laravel / Vue.Js / JavaScript / WordPress / Bootstrap / Tailwind CSS / CSS / HTML /  
 
 </div>
 
