@@ -1,4 +1,4 @@
-![I am shakilprogrammerr](https://github.com/thecodeliner/thecodeliner/blob/main/codeliner.jpg)
+![The CodeLiner](https://github.com/thecodeliner/thecodeliner/blob/main/codeliner1.jpg)
 
 <h1 align="center">Hi 👋, I'm Shariful Ehasan</h1>
 <h3 align="center">Full Stack Web Developer </h3>
