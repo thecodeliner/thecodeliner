@@ -29,6 +29,7 @@ Skills: PHP / Laravel / Vue.Js / JavaScript / WordPress / Bootstrap / Tailwind C
 ## Use To Code
 
 ![PHP](https://img.shields.io/badge/php-PHP?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23000&color=%237377AD)
+![MySQL](https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%23DD8A00&color=%2312618F)
 ![Laravel](https://img.shields.io/badge/laravel-Laravel?style=for-the-badge&logo=laravel&logoColor=%23fff&labelColor=%23ca3226&color=%23ED2E03)
 ![Vue.js](https://img.shields.io/badge/vue.js-vuejs?style=for-the-badge&logo=vuedotjs&logoColor=%233FB27F&labelColor=%23000&color=%233FB27F)
 ![Livewire](https://img.shields.io/badge/livewire-livewire?style=for-the-badge&logo=livewire&logoColor=%23FB70A9&labelColor=%23000&color=%23FB70A9)
