@@ -33,6 +33,7 @@ Skills: PHP / Laravel / Vue.Js / JavaScript / WordPress / Bootstrap / Tailwind C
 ![Vue.js](https://img.shields.io/badge/vue.js-vuejs?style=for-the-badge&logo=vuedotjs&logoColor=%233FB27F&labelColor=%23000&color=%233FB27F)
 ![Livewire](https://img.shields.io/badge/livewire-livewire?style=for-the-badge&logo=livewire&logoColor=%23FB70A9&labelColor=%23000&color=%23FB70A9)
 ![WordPress](https://img.shields.io/badge/wordpress-wordpress?style=for-the-badge&logo=wordpress&logoColor=%23fff&labelColor=%2314599d&color=%233655E2)
+![JavaScript](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23CFB430&color=%23F5D33C)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
