@@ -1,6 +1,6 @@
 
 <!--Banner-->
-![YourName Banner Image](./banner.png)
+
 
 <!--Developer illustration-->
 <div>
@@ -8,8 +8,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Shariful Ehasan!
-*Web Artisan (PHP/Laravel/WordPress Developer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Great to see you!
+### *I am a Full Stack Web Developer*
 <br />
 
 <!--Start Intro-->               
@@ -19,7 +19,7 @@
 - 🖥️ Creating custom WordPress themes and plugins
 - 🛠️ Designing efficient database architectures
 - 🌱 Currently mastering Vue.js and Laravel Livewire
-- ✍️ Sharing knowledge through [DEV posts](https://dev.to/yourprofile)
+- ✍️ Sharing knowledge through [DEV posts](https://dev.to/thecodeliner)
 - ❤️ Contributing to open-source PHP projects
 - 💻 Check out my [Portfolio](https://yourportfolio.com)
 <!--End Intro-->
