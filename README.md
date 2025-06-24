@@ -36,7 +36,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./skills-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./skills-light.gif">
-  <img align="left" alt="Coding GIF" src="./skills-light.gif" width="40%">
+
 </picture>
 <br />
 
