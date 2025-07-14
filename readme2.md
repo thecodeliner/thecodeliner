@@ -15,8 +15,8 @@ Occupation: Full-Stack Developer
 Status: Available for freelance work
 Architecture: Web Development Specialist
 Uptime: 3+ years in production
-Kernel Ver: Laravel 10.x | Angular 16+
-Hardware: MacBook/PC | Docker Containers
+Kernel Ver: Laravel 12.x | PHP 8.4
+//Hardware: Fedora | Docker Containers
 
 ```
 
@@ -58,8 +58,8 @@ Hardware: MacBook/PC | Docker Containers
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thecodeliner&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeliner&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---
