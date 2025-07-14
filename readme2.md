@@ -32,25 +32,39 @@ Kernel Ver: Laravel 12.x | PHP 8.4
 
 ### Frontend Stack
 ```bash
-- HTML5
-- CSS3 / Tailwind / Bootstrap
-- JavaScript
-- Vue.js / Alpine.js
+$frontendStack = [
+    "HTML5",
+    "CSS3",
+    "Tailwind",
+    "Bootstrap",
+    "JavaScript",
+    "Vue.js",
+    "Alpine.js"
+];
 ```
 
 ### Backend Arsenal
 ```bash
-- PHP
-- Laravel
-- MySQL / PostgreSQL
-- REST API / JSON
+$backendStack = [
+    "PHP",
+    "Laravel",
+    "MySQL",
+    "PostgreSQL",
+    "REST API",
+    "JSON"
+];
 ```
 
 ### DevOps Toolkit
 ```bash
-- Git & GitHub
-- Nginx / Apache
-- Docker / Laravel Sail
+$devOpsStack = [
+    "Git",
+    "GitHub",
+    "Nginx",
+    "Apache",
+    "Docker",
+    "Laravel Sail"
+];
 ```
 
 ---
