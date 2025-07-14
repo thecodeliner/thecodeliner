@@ -74,6 +74,7 @@ $devOpsStack = [
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thecodeliner&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeliner&layout=compact&theme=radical" width="34.2%"/>
+  <img src="https://streak-stats.demolab.com?user=thecodeliner&theme=radical" width="34.2%"/>
 </p>
 
 ---
