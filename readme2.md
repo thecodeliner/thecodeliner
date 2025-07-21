@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=root%40github%3A~%24+whoami;Shariful+Ehasan+%7C+Full+Stack+Web+Developer;root%40github%3A~%24+skill;PHP+%7C+Laravel+%7C+Vue.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41C83F&width=435&lines=codeliner%40github%3A~%24+whoami;Shariful+Ehasan;codeliner%40github%3A~%24+skills;PHP+%7C+Laravel+%7C+Vue.js+%7C+JavaScript" />
 </p>
 
 ---
@@ -164,16 +163,3 @@ Available for:
 ```bash
 root@github:~# fortune | cowsay
 
- ______________________________________
-< Code is poetry, written in logic form >
- --------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
----
-
-⭐️ *Thanks for visiting my profile! Feel free to connect or collaborate anytime.*
