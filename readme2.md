@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A1385&center=true&vCenter=true&width=435&lines=codeliner%40github%3A~%24+whoami;Shariful+Ehasan;codeliner%40github%3A~%24+skills;PHP+%7C+Laravel+%7C+Vue.js+%7C+JavaScript" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F733&background=000000&vCenter=true&multiline=true&width=435&height=120&lines=codeliner%40github%3A~%24+whoami;Shariful+Ehasan;codeliner%40github%3A~%24+skills;PHP+%7C+Laravel+%7C+Vue.js+%7C+JavaScript" />
 </p>
 
 ---
