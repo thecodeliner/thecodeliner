@@ -15,7 +15,7 @@ Status: Available for freelance work
 Architecture: Web Development Specialist
 Uptime: 3+ years in production
 Kernel Ver: Laravel 12.x | PHP 8.4
-//Hardware: Fedora | Docker Containers
+OS: Fedora 
 
 ```
 
@@ -48,7 +48,6 @@ $backendStack = [
     "PHP",
     "Laravel",
     "MySQL",
-    "PostgreSQL",
     "REST API",
     "JSON"
 ];
@@ -59,10 +58,9 @@ $backendStack = [
 $devOpsStack = [
     "Git",
     "GitHub",
-    "Nginx",
     "Apache",
     "Docker",
-    "Laravel Sail"
+    
 ];
 ```
 
