@@ -96,9 +96,9 @@ root@github:~# curl -i https://api.example.dev/profile
 {
   "status": "active",
   "profile": {
-    "name": "Your Name",
+    "name": "Shariful Ehasan",
     "role": "Full Stack Developer",
-    "skills": ["Laravel", "Vue", "MySQL"]
+    "skills": ["Laravel", "PHP", "Vue", "MySQL"]
   },
   "location": "Remote",
   "available_for_hire": true
@@ -111,8 +111,8 @@ root@github:~# curl -i https://api.example.dev/profile
 ```bash
 root@github:~# tail -f ~/var/logs/github.log
 
-[2025-07-14 13:00:00] INFO: Setup new Laravel SaaS project
-[2025-07-14 14:15:23] INFO: Pushed commits to master branch
+[2025-07-30 13:00:00] INFO: Setup new Laravel SaaS project
+[2025-07-31 14:15:23] INFO: Pushed commits to Main branch
 ```
 
 ---
@@ -120,8 +120,7 @@ root@github:~# tail -f ~/var/logs/github.log
 ## 🎯 CURRENT OBJECTIVES
 ```bash
 Learning Roadmap:
-- [x] Master Laravel 11 & Build Reusable Modules
-- [x] Setup CI/CD with GitHub Actions
+- [x] Master Laravel 12 & Build Reusable Modules
 - [ ] Create Laravel Livewire Components
 - [ ] Publish Open Source Projects
 ```
@@ -154,12 +153,10 @@ Available for:
 - Technical Mentoring
 - Collaboration & Team Building
 
-📫 Email: your.email@example.com
+📫 Email: 
 ```
 
----
 
-## ✨ FUN TIME
-```bash
-root@github:~# fortune | cowsay
+
+
 
