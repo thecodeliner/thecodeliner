@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ SYSTEM INFORMATION
+## 🖥️ INFORMATION
 ```bash
 root@github:~# fastfetch
 
@@ -27,7 +27,7 @@ OS: Fedora
 
 ---
 
-## 📦 INSTALLED PACKAGES
+## 📦 Skills
 
 ### Frontend Stack
 ```bash
